@@ -1,4 +1,4 @@
-# social Media App. Dibuat dengan Laravel Breeze.
+# Social Media App. Dibuat dengan Laravel Breeze.
 
 Project pembuatan aplikasi media sosial dengan menggunakan Laravel Breeze. -Laravel8
 
